@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
+	<!--This is report page-->
 <head>
-	<title>Display Job Descriptions and Locations</title>
+	<title>Display Job Descriptions & Locations</title>
 	<!-- Add Bootstrap CSS -->
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 </head>
