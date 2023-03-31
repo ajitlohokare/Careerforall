@@ -1,3 +1,4 @@
+// This line is added by Rugwed Patharkar
 <?php
 $showAlert = false;
 $showError = false;
@@ -17,6 +18,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
     }
 }
 ?>
+       
 
 <!doctype html>
 <html lang="en">
