@@ -1,3 +1,7 @@
+
+//Mansi Her i made added a comment
+
+
 <?php
 $servername="sql12.freemysqlhosting.net";
 $username="sql12599089";
