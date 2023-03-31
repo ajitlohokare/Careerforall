@@ -1,4 +1,4 @@
-// This line is added by Rugwed Patharkar
+//  This line is added by Rugwed Patharkar
 <?php
 $showAlert = false;
 $showError = false;
