@@ -28,7 +28,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
       h1 {text-align: center;}
     </style>
     <!--This is Startup page commit by Prasad Kumbhar -->
-    <!-- comment added by prasad from eclipse repository  -->
+    <!-- comment added by prasad (eclipse)  -->
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
